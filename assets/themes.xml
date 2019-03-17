@@ -16,6 +16,15 @@
  -->
 
 <themes>
+    <theme name="TUB" accent="org.omnirom.theme.accent.rottenorange"
+           thumbnail="tub_logo.png" notification="org.omnirom.theme.notification.primary"
+           primary="org.omnirom.theme.primary.xtended"/>
+    <theme name="Clear-TUB" accent="org.omnirom.theme.accent.deadred"
+           thumbnail="tub_logo.png" notification="org.omnirom.theme.notification.primary"
+           primary="org.omnirom.theme.primary.clearxtended"/>
+    <theme name="Eye Soother" accent="org.omnirom.theme.accent.bluemonday"
+           thumbnail="tub_logo.png" notification="org.omnirom.theme.notification.primary"
+           primary="org.omnirom.theme.primary.eyesoother"/>
     <theme name="Slutty Pink" accent="org.omnirom.theme.accent.sluttypink"
            thumbnail="thumbnail_slutty_pink.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.darkblue"/>
