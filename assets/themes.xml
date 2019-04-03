@@ -43,7 +43,7 @@
     <theme name="Zero Zero" accent="org.omnirom.theme.accent.white"
            thumbnail="thumbnail_zero_zero.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.black"/>
-    <theme name="Black And YellO" accent="org.omnirom.theme.accent.goldenshower"
+    <theme name="Black And YelloW" accent="org.omnirom.theme.accent.goldenshower"
            thumbnail="thumbnail_black_yellow.png" notification="org.omnirom.theme.notification.primary"
            primary="org.omnirom.theme.primary.black"/>
 </themes>
